@@ -12,8 +12,8 @@ Site da AluraBooks montado no conceito "Mobile First" e responsivo para telas ma
 
 As técnicas e tecnologias utilizadas pra isso são:
 
-- `HTML`: construção do conteúdo da página
-- `CSS`: estilização da página e responsividade
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"): construção do conteúdo da página
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"): estilização da página e responsividade
 - `Figma`: fonte do projeto UI / UX
 - `Github`: repositório do código
 - `Github Pages`: hospedagem do site.
