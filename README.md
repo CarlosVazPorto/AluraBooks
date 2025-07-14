@@ -20,4 +20,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://carlosvazporto.github.io/AluraBooks/)
+Você pode acessar o site em (https://carlosvazporto.github.io/AluraBooks/)
