@@ -1,6 +1,4 @@
-# AluraBooks
-
-![Descricao da sua imagem](.assets/Front-end-Alurabooks.png)
+<img width="2250" height="1125" alt="Front-end-AluraBooks" src="https://github.com/user-attachments/assets/6fbfee20-bf50-4c51-97d4-59444fe90f48" />
 
 # AluraBooks
 
