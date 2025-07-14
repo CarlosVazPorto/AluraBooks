@@ -14,6 +14,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 - `HTML`: construção do conteúdo da página
 - `CSS`: estilização da página e responsividade
+- `Figma`: fonte do projeto UI / UX
 - `Github`: repositório do código
 - `Github Pages`: hospedagem do site.
 
